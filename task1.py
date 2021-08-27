@@ -24,13 +24,20 @@ nowtime=nowtime()
 
 
 query = {
-  "brush":6 ,
+    
+ "brush":6 ,
   "Take bath":7,
-  "have your breakfast ":8,
-  "take your lunch":15,
+  "Do Yoga":8,
+  "have your breakfast ":9,
+  "Be prepared for your online classes":10,
+  "take your lunch":14,
   "take rest":15,
-  "join class ":20
-
+  "Water Plants":17,
+  "help Mom":18,
+  "Time to Study":19,
+  "Have Dinner":20,
+  "Resume Studies":21,
+  "Go to bed":23
 }
 
 #print(tuple(query.items())[i]][0])
